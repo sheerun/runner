@@ -5,4 +5,4 @@ services:
 
 script:
   - docker pull ubuntu
-  - ls -la /var/lib/docker
+  - sudo ls -la /var/lib/docker
